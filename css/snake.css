@@ -1,0 +1,22 @@
+.canvas{
+    border: 2px solid rgb(76, 0, 255);
+    margin-left: 15rem;
+    background-color: aquamarine;
+}
+.score{
+background-color: green;
+color: white;
+font-size: 2rem;
+margin-left: 25rem;
+}
+.actualise{
+    width: 14rem;
+    height: 4rem;
+    border-radius: 3rem;
+    background-color: orange;
+    color: white;
+    border: 1px solid blue;
+    font-size: 1.5rem;
+    margin-left: 23rem;
+    margin-top: 2rem;
+}
